@@ -6,4 +6,7 @@ $(document).ready(function() {
     const tableID = `#${e.target.id}_table`;
     $(tableID).removeClass('hidden');
   });
+  $('#invert-button').click(() => {
+  	$('body').toggleClass('inverted');
+  });
 });

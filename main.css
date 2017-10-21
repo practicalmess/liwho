@@ -198,3 +198,31 @@ header {
     border-width: 1px 1px 0 1px;
     color: #f72;
 }
+
+#invert-button {
+    padding: 15px;
+    margin: 15px;
+    color: black;
+}
+
+.inverted {
+    background-color: white;
+    color: black;
+}
+
+.inverted .sched-grids.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: white;
+    color: black;
+}
+
+.inverted .sched-grids a {
+    color: #653815;
+}
+
+.inverted .table-bordered td {
+    border: 1px black solid;
+}
+
+.inverted a, .inverted .active {
+    color: #0070ff;
+}
