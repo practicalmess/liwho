@@ -7,8 +7,3 @@ Current features:
 * Added striping to the table to make the rows more distinct
 * The colors can be inverted, for people who have trouble reading light text on a dark background
 
-Future additions:
-* Panel descriptions, either in modal or tooltip form
-* TBA
-
-Please visit the official site for Long Island Who (and buy a pass to the con!): http://longislanddoctorwho.com/
